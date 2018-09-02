@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyAgentWeb.iml" filepath="$PROJECT_DIR$/MyAgentWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agentweb-core/agentweb-core.iml" filepath="$PROJECT_DIR$/agentweb-core/agentweb-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
